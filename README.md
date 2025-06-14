@@ -14,13 +14,13 @@ Readify is a fully responsive study-focused website built using HTML and CSS. It
 ## 🖥️ Full Desktop Preview (Scroll View)
 
 ### Hero and About Us Section
-![Hero Section](images/top.jpg)
+![Hero Section](top.jpg)
 
 ### Cards Section
-![About & Cards](images/cards.jpg)
+![About & Cards](cards.jpg)
 
 ### Testimonials + Footer
-![Testimonials & Footer](images/footer.jpg)
+![Testimonials & Footer](footer.jpg)
 
 
 ## 💻 Tech Stack
